@@ -6,3 +6,5 @@ The data structure supports the following operations:
 1. get(key) - To get the cached value associated with the key in the data structure.
 2. set(key, value) - To set a value in the cache associated to a specific key. If the value is not cached previously, the data structure
 will insert the value of that key in the cache.
+
+File Name- LRUCache.java
